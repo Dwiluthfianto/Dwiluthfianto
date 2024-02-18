@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is **Dwi Luthfianto**
+I'm Frontend Developer and UI/UX Designer
 <!--
 **dwiluthfianto/dwiluthfianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
